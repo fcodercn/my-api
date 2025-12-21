@@ -1,2 +1,2 @@
 # my-api
-api
+idiom_api
